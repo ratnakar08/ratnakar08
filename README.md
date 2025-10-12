@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ratnakar Kota  
 
-🎓 BTech 2nd Year Student | 💻 Developer | 🚀 Tech Enthusiast  
+🎓 BTech 3rd Year Student | 💻 Developer | 🚀 Tech Enthusiast  
 
 ---
 
 ### 🚀 About Me
 - 🔧 Proficient in **C, C++**, and learning **Web Development (HTML, CSS, JavaScript, React)**  
 - 🛠️ Working on projects like **MealMission** (food surplus distribution) and **Traffic Accident Detector**  
-- 📚 Currently exploring **DBMS, Digital Electronics, and Java**  
+- 📚 Currently exploring **DBMS, System Design, and Java**  
 - 🎯 Interested in **Frontend Development, Problem Solving, and Hackathons**  
 
 ---
@@ -16,7 +16,7 @@
 - **Languages:** C, C++, Java, Python (basics)  
 - **Web:** HTML, CSS, JavaScript, React (beginner)  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-- **Other:** DBMS, Digital Electronics  
+- **Other:** DBMS, System Design 
 
 ---
 
