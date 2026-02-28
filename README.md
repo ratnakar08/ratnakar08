@@ -35,7 +35,7 @@ BTech 3rd Year Student | Developer | Tech Enthusiast
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### How to Reach Me
--  Email: [kotaratan225@gmail.com]  
+-  Email: [kotaratna225@gmail.com]  
 -  LinkedIn: [https://www.linkedin.com/in/kota-ratnakar08/]  
 -  GitHub: [github.com/ratnakark08](https://github.com/ratnakar08)  
 
